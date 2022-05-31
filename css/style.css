@@ -1,0 +1,32 @@
+/* Created by: Anita Kay
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit5-02-HTML-ProductOfNumbers
+*/
+
+body {
+	background-color: rgb(146, 218, 237);
+}
+
+h1 {
+	background-color: rgb(175, 237, 171);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #eccae3;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #eccae3;
+	font-size: 20px;
+}
